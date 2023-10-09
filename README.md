@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Syam Chaidayatullah</h1>
 <h3 align="center">I am a informatics student</h3>
-<img src="https://tenor.com/id/view/coding-gif-13839287635814292878" />
 
 - 🌱 I’m currently learning **PHP, React, Laravel**
 
