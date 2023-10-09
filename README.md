@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Syam Chaidayatullah</h1>
 <h3 align="center">I am a informatics student</h3>
-<div class="tenor-gif-embed" data-postid="13839287635814292878" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/coding-gif-13839287635814292878">Coding GIF</a>from <a href="https://tenor.com/search/coding-gifs">Coding GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img src="https://tenor.com/id/view/coding-gif-13839287635814292878" />
 
 - 🌱 I’m currently learning **PHP, React, Laravel**
 
