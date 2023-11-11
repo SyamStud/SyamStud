@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syamstud&label=Profile%20views&color=0e75b6&style=flat" alt="syamstud" /> </p>
 
-- 🌱 I’m currently learning **PHP, React, Laravel**
+- 🌱 I’m currently learning **PHP, Laravel**
 
 - 👨‍💻 All of my projects are available at [syamstu.tech](syamstu.tech)
 
