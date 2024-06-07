@@ -15,9 +15,6 @@
  </div>
  
 <div align="center"> 
-<!--   <a href="mailto:pedro.sales.muniz@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a> -->
   <a href="https://www.linkedin.com/in/syam-chaidayatullah-21a4021b4/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
@@ -31,18 +28,3 @@
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,figma,tailwind" />
     <img src="https://skillicons.dev/icons?i=javascript,php,mysql,laravel" /><br>
 </div>
-
-<br/>
-<hr/>
-
-<br/><br/>
-
-<hr/>
-
-<br/>
-
-<div align="center">
-<!-- <a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a> -->
-</div>
-
-<br/>
